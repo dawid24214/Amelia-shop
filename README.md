@@ -27,3 +27,7 @@ Nowy, edytowalny projekt źródłowy React + Vite + CSS, bez folderu `dist` i be
 
 ## Architektura
 `src/App.jsx` — routing i komponenty strony; `src/data/courses.js` — dane kursów; `src/styles.css` — wszystkie style.
+
+
+## Responsywność — v3
+Projekt dostosowano do szerokości 320–1920+ px. Menu mobilne włącza się poniżej 1081 px, karty kursów przechodzą w 2 kolumny na tabletach i 1 na telefonach. Uwzględniono dotykowe pola min. 44 px, redukcję animacji oraz brak poziomego przewijania. Test końcowy wykonaj w przeglądarce na urządzeniach docelowych.
