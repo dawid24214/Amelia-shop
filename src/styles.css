@@ -63,3 +63,5 @@ html{scroll-padding-top:90px}body{min-width:320px;overflow-x:hidden}img,svg,vide
 @media(max-width:700px){.hero-visual-photo{height:420px;padding:10px 8px 28px}.hero-photo-frame{height:365px;width:min(84%,350px)}.hero-visual-photo .floating-note{bottom:17px;left:0}}
 @media(max-width:480px){.hero-visual-photo{height:340px;padding:6px 4px 20px}.hero-photo-frame{height:305px;width:83%}.hero-visual-photo .floating-note{bottom:8px}}
 @media(max-width:360px){.hero-visual-photo{height:305px}.hero-photo-frame{height:270px}}
+
+/* v5: licznik usunięty z Hero; liczba kursów pozostaje w sekcji oferty. */
